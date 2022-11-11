@@ -22,6 +22,7 @@ public class bossBehavior : MonoBehaviour
             {
                 Instantiate(trophy, transform.localPosition, Quaternion.identity);
                 trophySpawned = true;
+                //test
             }
 
         }
